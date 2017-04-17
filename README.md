@@ -9,6 +9,7 @@ This repository aims to provide the ability to showcase a programming portfolio 
 3) Profit?
 
 <hr />
+
 # LXD demo server
 
 This repository contains the backend code of the LXD online demo service.
