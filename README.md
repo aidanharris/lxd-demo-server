@@ -1,3 +1,14 @@
+# LXD Portfolio Server
+
+This repository aims to provide the ability to showcase a programming portfolio using LXD.
+
+## Initial Ideas:
+
+1) Fork lxd-demo-server
+2) Remove / Ignore stdin
+3) Profit?
+
+<hr />
 # LXD demo server
 
 This repository contains the backend code of the LXD online demo service.
